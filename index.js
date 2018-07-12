@@ -9,7 +9,7 @@ function suntract (a, b){
 function multiply(a, b){
   var mul = a * b;
   return mul;
-  
+
 }
 function divide (a , b){
   var div = a / b;
@@ -27,4 +27,3 @@ function makeInt(n){
   var par = parseInt(n);
   return par;
 }
-
