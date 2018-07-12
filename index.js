@@ -2,7 +2,7 @@ function add(a, b){
   var sum = a + b;
   return sum;
 }
-function suntract (a, b){
+function suntracts (a, b){
   var sub = a - b;
   return sub;
 }
