@@ -1,4 +1,30 @@
-function add(a,b){
+function add(a, b){
   var sum = a + b;
   return sum;
 }
+function suntract (a, b){
+  var sub = a - b;
+  return sub;
+}
+function multiply(a, b){
+  var mul = a * b;
+  return mul;
+  
+}
+function divide (a , b){
+  var div = a / b;
+  return div;
+}
+function inc(n){
+  var increment = n + 1;
+  return increment;
+}
+function dec(n){
+  ver decrement = n - 1;
+  return decrement;
+}
+function makeInt(n){
+  var par = parseInt(n);
+  return par;
+}
+
